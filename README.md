@@ -23,8 +23,8 @@ Sistema CRM completo com backend Laravel e frontend Angular.
 - Fonte: Website, Social, Referral, Cold Call
 
 ### Pipeline de Vendas
-- Visualizacao Kanban do pipeline
-- 5 estagios: Qualification, Proposal, Negotiation, Closed Won/Lost
+- Visualização Kanban do pipeline
+- 5 estágio: Qualification, Proposal, Negotiation, Closed Won/Lost
 - Valor e probabilidade por deal
 - Data prevista de fechamento
 
@@ -36,8 +36,8 @@ Sistema CRM completo com backend Laravel e frontend Angular.
 
 ### Dashboard
 - Metricas gerais (contatos, deals, receita)
-- Deals por estagio
-- Atividades proximas
+- Deals por estágio
+- Atividades próximas
 - Atividades recentes
 
 ## Estrutura do Projeto
